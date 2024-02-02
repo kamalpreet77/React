@@ -18,8 +18,9 @@ function App() {
       <div>
       <Image></Image>
       </div>
+      <div>
       <Input></Input>
-      
+      </div>
     </div>
   );
 }
